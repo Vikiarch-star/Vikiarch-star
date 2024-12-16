@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "build": 1,
+  "description": "Internal library version for mobile project",
+  "flutter_min_version": "3.3.0",
+  "updated_at": "2024-12-16"
+}
